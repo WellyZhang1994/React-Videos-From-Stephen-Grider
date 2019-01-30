@@ -10,9 +10,9 @@ This project is implemented sample code from React Tutorial by Stephen-Grider in
 
 #### App.js
 
- - Youtube API in React
- youtube snippets [https://developers.google.com/youtube/v3/code_samples/code_snippets]
- api url : https://www.googleapis.com/youtube/v3
+ - Youtube API in React,
+ - youtube snippets [https://developers.google.com/youtube/v3/code_samples/code_snippets]
+ - api url : https://www.googleapis.com/youtube/v3
  
 ```sh
 export default axios.create({
